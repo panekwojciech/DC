@@ -38,5 +38,3 @@ primes = get_primes(2, limit)
 divisors = list(filter(lambda x: n % x == 0, primes))
 
 print(max(divisors))
-
-#Answer: 6857

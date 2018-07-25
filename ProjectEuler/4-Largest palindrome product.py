@@ -28,5 +28,3 @@ for i in range(999,900, -1):
     a -=1
 
 print(max(result))
-
-#Answer: 906609

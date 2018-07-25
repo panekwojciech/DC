@@ -14,5 +14,3 @@ while b < 4000000:
         result +=b
     a, b = b, a+b
 print(result)
-
-#Answer: 4613732
